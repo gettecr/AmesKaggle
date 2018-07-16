@@ -17,16 +17,20 @@ Visuals:
 ----------
 
 Comparison of lasso predicted vs actual for test and validation set
+
 ![Lasso Regression](./lasso.png)
 
 Comparison of the important lasso coefficients
+
 ![Lasso Coefficients](./lasso_coef.png)
 
 
 Comparison of ridge predicted vs actual for test and validation set
+
 ![Ridge Regression](./ridge.png )
 
 Comparison of the important ridge coefficients
+
 ![Ridge Coefficients](./ridge_coef.png)
 
 
