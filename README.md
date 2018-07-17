@@ -1,15 +1,26 @@
 Ames Housing Prices
 ==============================
 
-This is my analysis of the Ames housing dataset from the Kaggle competition. The analysis involves data cleaning and machine learning analysis. Best performing models include linear regression with ridge and lasso regulation. Decision tree, random forest and xgboost were also tested. 
+This is my analysis of the Ames housing dataset from the Kaggle
+competition. The analysis involves data cleaning and machine learning
+analysis. Best performing models include linear regression with ridge
+and lasso regulation. Decision tree, random forest and xgboost were
+also tested. There are many limitations to the current analysis and
+much room for improvement. Some possible improvements listed below.
 
 Submitted rmse = 0.128
 
 Goals for this project
 ------------
 
-To show an example of analysis in Python (Python 3) on the Ames dataset. 
-Jupyter notebooks (located in notebooks) were used for initial data exploration, model comparisions, and visualizations. 
+To explore different regression techniques and their application to a
+complex housing dataset. Kaggle competitions afford a relatively clean
+and straightforward dataset which are optimal for exploration of
+different modeling techniques without the need for a lot of data
+preparation.
+
+
+Jupyter notebooks were used for initial data exploration, model comparisions, and visualizations. 
 
 
 
